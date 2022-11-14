@@ -1,0 +1,11 @@
+## **Demandings of project:**
+
+**A.** *Yozuvchilar ularni hayoti va asarlari haqida ma’lumot beriladi ;*
+
+**B.** *Asarlari kino qilingan bo’lsa, joylashtiriladi ;*
+
+**C.** *Yozuvchilar kitoblarni pdf shakli joylashtiriladi ;*
+
+**D.** *Studentlar orasida musobaqa qilib, ular yozgan maqolalarni joylashtirish mumkin ;*
+
+**E.** *Quizz savollar bo’lishi kerak ;*
