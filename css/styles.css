@@ -205,6 +205,10 @@ select:-webkit-autofill:focus {
     line-height: 160%;
 }
 
+.site-header__logo-link {
+    text-decoration: none;
+}
+
 
 /* HERO */
 
@@ -508,6 +512,10 @@ select:-webkit-autofill:focus {
 }
 
 .site-footer__1st__item {}
+
+.site-footer__1st__logo-link {
+    text-decoration: none;
+}
 
 .site-footer__1st__link {
     text-decoration: none;
